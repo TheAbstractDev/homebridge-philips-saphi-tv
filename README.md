@@ -10,7 +10,7 @@ It has been modified to work on a 55OLED754/12 TV (2019 model with SaphirTV OS w
 # Installation
 
 1. Install homebridge using: npm install -g homebridge
-2. Install this plugin using: npm install -g homebridge-philipstv-2019
+2. Install this plugin using: npm install -g homebridge-philips-saphi-tv
 3. Update your configuration file. See the sample below.
 
 # Configuration
